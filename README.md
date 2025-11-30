@@ -12,7 +12,6 @@ communicated.
 Unlike existing AI-based writing tools, which focus on correction
 or linear textual analysis, the Emotions Analyzers provides
 a form of ambient emotional visualization that supports the iterative,
-spontaneous, and non-linear nature of creative writing
-[1]. It aims to preserve writerly agency by enabling authors to
+spontaneous, and non-linear nature of creative writing. It aims to preserve writerly agency by enabling authors to
 reflect on how their work may be interpreted without altering
 their words or stylistic choices.
