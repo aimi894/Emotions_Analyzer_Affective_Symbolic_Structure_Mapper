@@ -15,4 +15,5 @@ a form of ambient emotional visualization that supports the iterative,
 spontaneous, and non-linear nature of creative writing. It aims to preserve writerly agency by enabling authors to
 reflect on how their work may be interpreted without altering
 their words or stylistic choices.
-![alt text](UML New.png)
+
+![UML Diagram](UML%20New.png)
