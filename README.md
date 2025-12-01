@@ -16,4 +16,10 @@ spontaneous, and non-linear nature of creative writing. It aims to preserve writ
 reflect on how their work may be interpreted without altering
 their words or stylistic choices.
 
+<p align="center">
+  <img src="Figure%201.png" width="250">
+  <img src="Figure%202.png" width="250">
+  <img src="Figure%203.png" width="250">
+</p>
+
 ![UML Diagram](UML%20New.png)
